@@ -70,4 +70,7 @@ This project uses Python and Jupyter Notebook to perform descriptive analysis an
   - Git / GitHub
 
 ---
+## Ver Notebook en HTML
+
+🔗 [Visualizar el notebook renderizado en GitHub Pages](https://arturoadb.github.io/survey-data-analysis/docs/Project_survey_data.html)
 
