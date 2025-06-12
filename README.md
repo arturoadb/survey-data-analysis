@@ -59,7 +59,7 @@ This project uses Python and Jupyter Notebook to perform descriptive analysis an
 
 ## Technologies Used
 
-- **Language:** Python 3.x
+- **Language:** Python
 - **Libraries:**  
   - pandas  
   - numpy  
@@ -70,13 +70,4 @@ This project uses Python and Jupyter Notebook to perform descriptive analysis an
   - Git / GitHub
 
 ---
-
-## Running the Project
-
-### Requirements
-
-Install the required dependencies with:
-
-```bash
-pip install -r requirements.txt
 
